@@ -20,4 +20,5 @@
         'views/user.xml',
     ],
     'installable': True,
+    'auto_install': True,
 }
