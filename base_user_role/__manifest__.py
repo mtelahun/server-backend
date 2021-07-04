@@ -21,4 +21,5 @@
         "views/group.xml",
     ],
     "installable": True,
+    "auto_install": True,
 }
